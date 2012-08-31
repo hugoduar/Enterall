@@ -1,0 +1,53 @@
+.unsupport { display:none; }
+.impress-not-supported .no-support-message { display:block; }
+
+/*DISEÑO DE LAS DIAPOSITIVAS*/
+
+body { background:#EBEBEB; font:16px/24px "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; color:#333; }
+.step {  
+	position: relative;
+    width: 900px;
+    padding: 40px;
+    margin: 20px auto;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing:    border-box;
+    -ms-box-sizing:     border-box;
+    -o-box-sizing:      border-box;
+    box-sizing:         border-box;
+
+    font-family: 'PT Serif', georgia, serif;
+    font-size: 20px;
+    line-height: 1.5; }
+#eslogan{
+	font-size: 25px;
+}
+#vision{
+	font-size: 30px;
+	text-align: center;
+	background-color: #ffffff;
+}
+#mision{
+	font-size: 30px;
+	text-align: center;
+	background-color: #f4f4f4;
+}
+#objetivos{
+	font-size: 40px;
+	text-transform: 12;
+
+}
+#filosofia{
+	font-size: 30px;
+	text-align: center;
+	background-color: #fff;
+}
+#politica{
+	font-size: 30px;
+	text-align: center;
+	background-color: #fff;
+}
+#estrategias{
+	background-color: #f4f4f4;
+	text-align: right;
+}
